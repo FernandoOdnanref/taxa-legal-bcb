@@ -1,0 +1,137 @@
+{
+ "fonte": "Banco Central do Brasil, SGS serie 29543 (Taxa legal, Res. CMN 5.171/2024, art. 406 CC)",
+ "unidade": "% ao mes",
+ "atualizado_em": "2026-10-03",
+ "dados": [
+  {
+   "mes": "2024-08",
+   "taxa_legal_pct_mes": 0.605306,
+   "acumulado_desde_2024_09_pct": null
+  },
+  {
+   "mes": "2024-09",
+   "taxa_legal_pct_mes": 0.676227,
+   "acumulado_desde_2024_09_pct": 0.676227
+  },
+  {
+   "mes": "2024-10",
+   "taxa_legal_pct_mes": 0.704241,
+   "acumulado_desde_2024_09_pct": 1.380468
+  },
+  {
+   "mes": "2024-11",
+   "taxa_legal_pct_mes": 0.385874,
+   "acumulado_desde_2024_09_pct": 1.766342
+  },
+  {
+   "mes": "2024-12",
+   "taxa_legal_pct_mes": 0.171924,
+   "acumulado_desde_2024_09_pct": 1.938266
+  },
+  {
+   "mes": "2025-01",
+   "taxa_legal_pct_mes": 0.589427,
+   "acumulado_desde_2024_09_pct": 2.527693
+  },
+  {
+   "mes": "2025-02",
+   "taxa_legal_pct_mes": 0.902209,
+   "acumulado_desde_2024_09_pct": 3.429902
+  },
+  {
+   "mes": "2025-03",
+   "taxa_legal_pct_mes": 0.0,
+   "acumulado_desde_2024_09_pct": 3.429902
+  },
+  {
+   "mes": "2025-04",
+   "taxa_legal_pct_mes": 0.321969,
+   "acumulado_desde_2024_09_pct": 3.751871
+  },
+  {
+   "mes": "2025-05",
+   "taxa_legal_pct_mes": 0.6232,
+   "acumulado_desde_2024_09_pct": 4.375071
+  },
+  {
+   "mes": "2025-06",
+   "taxa_legal_pct_mes": 0.775982,
+   "acumulado_desde_2024_09_pct": 5.151053
+  },
+  {
+   "mes": "2025-07",
+   "taxa_legal_pct_mes": 0.83488,
+   "acumulado_desde_2024_09_pct": 5.985933
+  },
+  {
+   "mes": "2025-08",
+   "taxa_legal_pct_mes": 0.942622,
+   "acumulado_desde_2024_09_pct": 6.928555
+  },
+  {
+   "mes": "2025-09",
+   "taxa_legal_pct_mes": 1.305984,
+   "acumulado_desde_2024_09_pct": 8.234539
+  },
+  {
+   "mes": "2025-10",
+   "taxa_legal_pct_mes": 0.736394,
+   "acumulado_desde_2024_09_pct": 8.970933
+  },
+  {
+   "mes": "2025-11",
+   "taxa_legal_pct_mes": 1.093764,
+   "acumulado_desde_2024_09_pct": 10.064697
+  },
+  {
+   "mes": "2025-12",
+   "taxa_legal_pct_mes": 0.851001,
+   "acumulado_desde_2024_09_pct": 10.915698
+  },
+  {
+   "mes": "2026-01",
+   "taxa_legal_pct_mes": 0.96751,
+   "acumulado_desde_2024_09_pct": 11.883208
+  },
+  {
+   "mes": "2026-02",
+   "taxa_legal_pct_mes": 0.962232,
+   "acumulado_desde_2024_09_pct": 12.84544
+  },
+  {
+   "mes": "2026-03",
+   "taxa_legal_pct_mes": 0.155714,
+   "acumulado_desde_2024_09_pct": 13.001154
+  },
+  {
+   "mes": "2026-04",
+   "taxa_legal_pct_mes": 0.768672,
+   "acumulado_desde_2024_09_pct": 13.769826
+  },
+  {
+   "mes": "2026-05",
+   "taxa_legal_pct_mes": 0.198293,
+   "acumulado_desde_2024_09_pct": 13.968119
+  },
+  {
+   "mes": "2026-06",
+   "taxa_legal_pct_mes": 0.450641,
+   "acumulado_desde_2024_09_pct": 14.41876
+  },
+  {
+   "mes": "2026-07",
+   "taxa_legal_pct_mes": 0.706607,
+   "acumulado_desde_2024_09_pct": 15.125367
+  },
+  {
+   "mes": "2026-08",
+   "taxa_legal_pct_mes": 1.154527,
+   "acumulado_desde_2024_09_pct": 16.279894
+  },
+  {
+   "mes": "2026-09",
+   "taxa_legal_pct_mes": 1.499119,
+   "acumulado_desde_2024_09_pct": 17.779013
+  }
+ ]
+}
